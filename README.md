@@ -1,3 +1,4 @@
+# Usage
 ## Project setup
 ```
 npm install
