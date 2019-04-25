@@ -1,5 +1,3 @@
-# my-system
-
 ## Project setup
 ```
 npm install
